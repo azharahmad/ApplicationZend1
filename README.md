@@ -1,2 +1,2 @@
-ApplicationZend1
+This project based on MVC
 ================
